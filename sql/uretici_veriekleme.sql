@@ -1,0 +1,37 @@
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (1,'ALBAR KİMYA',3382,407277168503);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (2,'ECZACIBAŞI',3383,335277748582);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (3,'AKZO NOBEL',3384,967433264552);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (4,'HASAN KİMYA',3385,254325202841);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (5,'MAHMUT İLAÇLARI',3386,891935640350);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (6,'MEHMET KİMYA',3387,491194355976);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (7,'ABDULLAH İLAÇ',3388,524437553287);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (8,'BAYER',3389,892892453197);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (9,'ABDİ İBRAHİM',3390,686332493321);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (10,'NEJAT KİMYA',3391,707150430971);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (11,'HÜSEYİNOĞLU KİMYA',3392,481661206128);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (12,'GÜLYALI KİMYA',3393,448662207603);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (13,'AKHİSAR KİMYA',3394,679989698623);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (14,'EFE KİMYA',3395,408115296566);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (15,'SFG KİMYA',3396,281848096072);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (16,'ABC KİMYA',3397,230895788985);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (17,'KSK KİMYA',3398,512931934923);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (18,'GÖLCÜK KİMYA',3399,902526222135);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (19,'NİYAZİ İLAÇ',3400,294167319475);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (20,'SELÇUK İLAÇ',3401,787123801775);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (21,'RECEP KİMYA',3402,704371681583);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (22,'MUSTAFA KİMYA',3403,150065151004);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (23,'KEMAL KİMYA',3404,131386917885);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (24,'POLAT KİMYA',3405,445610178118);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (25,'ÇİÇEK KİMYA',3406,160577570576);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (26,'KIRLANGIÇ İLAÇ',3407,265472077215);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (27,'ORKİDE KİMYA',3408,261204901531);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (28,'NAZAR İLAÇ',3409,699624507104);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (29,'HANDE KİMYA',3410,318072576394);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (30,'TOLUNAY KİMYA',3411,603338205751);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (31,'AVCI KİMYA',3412,395499492770);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (32,'CANSU KİMYA',3413,580281407069);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (33,'EMEL KİMYA',3414,826712248023);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (34,'ELMA KİMYA',3415,421146695648);
+INSERT INTO uretici(uretici_id,uretici_ad,adres_id,hesap_no) VALUES (35,'MELTEM KİMYA',3416,385273122885);
+
+
